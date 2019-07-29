@@ -1,2 +1,2 @@
 # Auto-Insurance-Claim-Predictor
-Machine Learning model to predict auto insurance claims using Python and Scikit-learn library
+Machine Learning project to analyze and predict auto insurance claims using Python and Scikit-learn library
