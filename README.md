@@ -1,2 +1,2 @@
-# Auto-Insurance-Fraud-Predictor
-Machine Learning model to predict auto insurance fraud using Python and Scikit-learn library
+# Auto-Insurance-Claim-Predictor
+Machine Learning model to predict auto insurance claims using Python and Scikit-learn library
